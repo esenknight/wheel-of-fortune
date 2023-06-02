@@ -1,6 +1,6 @@
 # Wheel of Fortune
 
-## Project Name and Author Information
+## Project and Author Information
 
 Project: a text based, single player vocabulary guessing game  
 Primary file: wheeloffortune.py  
